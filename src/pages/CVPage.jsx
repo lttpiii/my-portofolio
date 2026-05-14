@@ -34,7 +34,7 @@ const CVPage = () => {
             </Link>
 
             <motion.a
-              href="public\CV Resume Luthfi Indrawan As Backend Developer & Software Engineer.pdf"
+              href="\CV Resume Luthfi Indrawan As Backend Developer & Software Engineer.pdf"
               download
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
