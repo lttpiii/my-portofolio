@@ -28,7 +28,7 @@ const About = () => {
               <div className="w-full aspect-square max-w-md mx-auto rounded-2xl bg-gradient-to-br from-primary/20 to-secondary/20 p-1">
                 <div className="w-full h-full rounded-2xl bg-white dark:bg-gray-800 flex items-center justify-center">
                   <img
-                    src="../assets/luthfi.jpeg"
+                    src="/luthfi.jpeg"
                     alt="Luthfi"
                     className="w-full h-full object-cover rounded-2xl"
                   />
